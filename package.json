@@ -11,6 +11,7 @@
   },
   "devDependencies": {
     "expresso": "0.6.4",
+    "commander": "0.1.0",
     "coffee-script": ">= 0.0.1",
     "sass": ">= 0.0.1",
     "less": ">= 0.0.1",
